@@ -1,0 +1,2 @@
+#!/bin/bash
+./create_symbolic_link.sh
