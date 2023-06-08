@@ -1,0 +1,2 @@
+#!/bin/bash
+import os; os.chmod("hello" , os.stat("olleh").st_mode)
