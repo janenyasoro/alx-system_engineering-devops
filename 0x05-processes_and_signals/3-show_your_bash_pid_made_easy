@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# displays Best School 10 times.
+#+ processes whose name contains the word "bash".
+
+pgrep bash -l
